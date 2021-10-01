@@ -1,0 +1,29 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+  
+#map,
+body,
+html {
+height: 100%;
+}
+
+.legend {
+    padding: 16px 18px;
+    font: 14px Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #555;
+    background: #fff;
+    background: rgba(235, 231, 231, 0.466);
+    border-radius: 5px;
+    box-shadow: 0 0 15px rgba(40, 101, 151, 0.616);
+}
+  
+.legend i {
+    width: 14px;
+    height: 14px;
+    float: left;
+  
+}
+  
